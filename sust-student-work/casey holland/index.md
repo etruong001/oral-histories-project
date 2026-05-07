@@ -18,3 +18,8 @@ tags:
 
 # A Seedling Essay - Eric
 This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+
+
+{% include media/audio.html
+  src="audio/interview replace.mp3"
+%}
